@@ -6,5 +6,6 @@ def find_element_index(array, value_to_find)
     end
     i += 1
   end
+  puts array[array.length]
   return nil
 end
