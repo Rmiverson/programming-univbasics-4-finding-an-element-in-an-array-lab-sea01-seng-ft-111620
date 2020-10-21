@@ -6,9 +6,9 @@ def find_element_index(array, value_to_find)
   
   while array.length > i do
     if array[i] == value
-      i += 1
+      
       return  array[i]
-    end
+    endi += 1
   end
   
   return nil
